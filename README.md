@@ -14,6 +14,8 @@ This project is a backend microservice for managing AI-driven quizzes, built wit
 - **Encryption**: Password hashing using bcrypt
 - **Hosting**: AWS EC2
 
+## LINK
+https://www.youtube.com/watch?v=5yOxcS3i4fk&t=2s
 
 ## API Documentation
 ## All Bonus Task Are Also Completed
