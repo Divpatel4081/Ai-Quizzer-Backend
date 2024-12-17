@@ -18,6 +18,9 @@ This project is a backend microservice for managing AI-driven quizzes, built wit
 https://www.youtube.com/watch?v=5yOxcS3i4fk&t=2s
 
 ## API Documentation
+
+[Postman API Documentation](https://documenter.getpostman.com/view/36764619/2sAYBUCrZn) - https://documenter.getpostman.com/view/36764619/2sAYBUCrZn
+
 ## All Bonus Task Are Also Completed
 
 Comprehensive API documentation is available on Postman:  
